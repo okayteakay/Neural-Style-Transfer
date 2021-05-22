@@ -10,5 +10,5 @@
 ### Style Transfer Algorithm
 #### Calculates the gradient descent on the loss functions
 
-![alt text](https://github.com/okayteakay/Image-Filters-Augmentation/blob/main/image%20filters.PNG)
+![alt text](https://github.com/okayteakay/Neural-Style-Transfer/blob/main/NST.png)
 
